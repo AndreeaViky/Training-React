@@ -1,0 +1,22 @@
+.paragraph1 {
+    font-family: 'Consolas';
+    padding: 10px;
+
+    color: green;
+}
+
+.paragraph2 {
+    font-family: 'Courier New';
+    padding: 10px;
+    text-align: right;
+
+    color: blue;
+}
+
+.link {
+    font-family: 'Roboto';
+    padding: 10px;
+    text-align: center;
+    
+    color: red;
+}

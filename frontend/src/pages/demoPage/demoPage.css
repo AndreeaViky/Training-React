@@ -1,0 +1,11 @@
+.fix-img {
+    height: 350px;
+    width: 400px;
+
+    padding: 15px;
+}
+
+.button {
+    border: none;
+    background-color: transparent;
+}
